@@ -1,21 +1,22 @@
 const CONFIG = {
-    introTitle: 'Này đầu đất',
-    introDesc: `Em thấy nhớ anh, em
-    Em thấy rất nhớ anh thoi
-    Ngày đêm cứ loay hoay
-    Trong suy nghĩ về anh
-    Anh có nhớ em không?
-    Anh có thấy nhớ em không?`,
-    btnIntro: 'Hic hic 🥺🥺',
-    title: 'Anh mà thoát ra coi chừng khỏi cho chơi game đấy 😌😌',
-    desc: 'Anh có yêu em nhiều hongggg 🥺🥺',
-    btnYes: 'Yêu nhiều lắm luôn, muốn ăn luôn 🥺🥺',
-    btnNo: 'Hong, anh yêu bé hàng xóm 😗😗',
-    question:'Vì sao anh lại yêu em dợoooo 🥺🥺',
-    btnReply: 'Gửi cho em nà 😝😝',
-    reply: 'Vì em là em bé của mình anh thoiiii 😘😘',
-    mess: 'Em biết mà, hihi 😚😚',
-    messDesc: 'Vậy thì bớt chơi game lại đi:))',
-    btnAccept: 'Dạ, anh biết gòi. Yêu emmmmmmm 🙆🙆',
+    introTitle: 'Này Huyyyyyyyy 😗😗😗'
+    introDesc: `Thấy Huy lạc trong khu rừng nhỏ
+    baby Huy đừng lo  🙄🙄🙄
+    Huy nói Huy thích con thỏ ok để đó t bắt dùm cho 
+    Không cần hỏi không cần tò mò
+    Chỉ cần biết t thích Huy từ nhỏ 👉👈
+    Không biết diễn tả bằng từ gì 
+    Nhưng trước giờ t chưa nói từ bỏ 
+    btnIntro: 'Hic hic 😭😭'
+    title: 'Thoát ra làm chóoo 😠😠😠'
+    desc: ' Huy thấy t có đáng iu khưm ?'
+    btnYes: 'Đáng iu lắm lun 🤗🤗'
+    btnNo: 'Hong, nhìn thiểu năng ghê'
+    question:'Vì sao Huy không rep tin nhắn của t z 😢😢'
+    btnReply: 'trả lời thiệt lòng nhaaa 😳😳😳'
+    reply: 'Vì Huy quên khưm rep hứ k phải do ghét m đâu 🙁🙁'
+    mess: 'T iết mà, hihi 😚😚',
+    messDesc: 'Vậy thì đừng seen tin nhắn nữa đồ lạnh lùng :<'
+    btnAccept: 'Dạ, Huy biết ùi 🙆🙆🙆🙆'
     messLink: 'http://fb.com' //messages/t/100014015913631
 }
