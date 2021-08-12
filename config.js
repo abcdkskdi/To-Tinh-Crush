@@ -14,7 +14,7 @@ const CONFIG = {
     btnNo: 'Hong, nhìn thiểu năng ghê',
     question:'Vì sao Huy không rep tin nhắn của t z 😢😢',
     btnReply: 'Trả lời thiệt lòng nhaaa 😳😳😳',
-    reply: 'Vì Huy quên khưm rep hứ k phải do ghét m đâu 🙁🙁',
+    reply: 'Vì Huy quên khưm rep chứ k phải do ghét m đâu 🙁🙁',
     mess: 'T biết mà, hihi 😚😚',
     messDesc: 'Vậy thì đừng seen tin nhắn nữa đồ lạnh lùng :<',
     btnAccept: 'Dạ, Huy biết ùi 🙆🙆🙆🙆',
