@@ -6,7 +6,7 @@ const CONFIG = {
     Không cần hỏi không cần tò mò
     Chỉ cần biết t thích Huy từ nhỏ 👉👈
     Không biết diễn tả bằng từ gì 
-    Nhưng trước giờ t chưa nói từ bỏ 
+    Nhưng trước giờ t chưa nói từ bỏ' 
     btnIntro: 'Hic hic 😭😭'
     title: 'Thoát ra làm chóoo 😠😠😠'
     desc: ' Huy thấy t có đáng iu khưm ?'
